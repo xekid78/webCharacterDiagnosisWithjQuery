@@ -1,0 +1,2 @@
+# webCharacterDiagnosisWithjQuery
+キャラ診断
